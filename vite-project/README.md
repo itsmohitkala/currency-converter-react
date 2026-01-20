@@ -4,7 +4,7 @@ A responsive currency converter built with **React** and **Vite** that allows us
 
 ---
 
-## 🚀 Features
+## 🚀 Featuressssss
 
 - Convert between multiple currencies
 - Real-time exchange rate data
